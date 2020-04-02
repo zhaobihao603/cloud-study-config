@@ -1,1 +1,1 @@
-Spring Cloud Config配置中心1
+Spring Cloud Config配置中心
